@@ -33,8 +33,8 @@ const WorkoutDiary = styled.div`
 const Main = styled.div`
     display: flex;
     justify-content: space-between;
-    border: 1px solid #3d511e;
-    background-color: #3d511e;
+    border: 1px solid #0090e3;
+    background-color: #0090e3;
     color: white;
     width: 100%;
     position: fixed;

@@ -48,3 +48,9 @@ const Card = ({ name, imgUrl }: Props) => (
 npm install --save @types/react @types/react-dom
 
 npm install --save axios
+
+npm install uuid
+
+npm i stream
+
+npm i --save-dev @types/uuid

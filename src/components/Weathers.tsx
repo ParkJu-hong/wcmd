@@ -91,13 +91,13 @@ function Weathers() {
     )
 }
 const WeekWeather = styled.div`
-    border: 1px solid red;
+    // border: 1px solid red;
     width: 300px;
     height: 300px;
     margin-top: 5vh;
     text-align: center;
     @media screen and (max-width: 780px) {
-        border: 1px solid blue;
+        // border: 1px solid blue;
         width: 250px;
         height: 250px;
         margin-top: 5vh;
