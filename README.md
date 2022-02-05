@@ -1,3 +1,10 @@
+# WCMD
+
+## TypeScript + React + Redux로 운동일지작성과, 날씨 볼 수있는 웹을 만들어봤다.
+
+
+# 라이브러리 설치과정
+
 npm install --save @types/styled-components
 npm install --save @types/react,react-dom,react-router-dom 
 
